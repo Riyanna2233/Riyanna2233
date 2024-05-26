@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyanna2233
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me riyanna2233@gmail.com
 
 <!---
