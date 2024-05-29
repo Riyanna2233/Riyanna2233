@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyanna2233
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me riyanna2233@gmail.com
 
 <!---
